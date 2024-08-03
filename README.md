@@ -1,4 +1,4 @@
-# OuterBeat (Innertune but with added QOL improvements)
+# OuterBeat (Innertune but with added QOL improvements) (NOT WORKING ATM)
 
 <img src="https://raw.githubusercontent.com/quimodotcom/OuterBeat/dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="72">
 
