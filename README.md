@@ -1,6 +1,6 @@
 # OuterBeat (Innertune but with added QOL improvements)
 
-<img src="" height="72">
+<img src="https://raw.githubusercontent.com/quimodotcom/OuterBeat/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="72">
 
 A Material 3 YouTube Music client for Android
 
